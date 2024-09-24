@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Área de Trabalho\\CursoCSharp\\CursoCSharp.csproj": {}
+    "c:\\Área de Trabalho\\CursoCSharp\\CursoCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Área de Trabalho\\CursoCSharp\\CursoCSharp.csproj": {
+    "c:\\Área de Trabalho\\CursoCSharp\\CursoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Área de Trabalho\\CursoCSharp\\CursoCSharp.csproj",
+        "projectUniqueName": "c:\\Área de Trabalho\\CursoCSharp\\CursoCSharp.csproj",
         "projectName": "CursoCSharp",
-        "projectPath": "C:\\Área de Trabalho\\CursoCSharp\\CursoCSharp.csproj",
+        "projectPath": "c:\\Área de Trabalho\\CursoCSharp\\CursoCSharp.csproj",
         "packagesPath": "C:\\Users\\maibv\\.nuget\\packages\\",
-        "outputPath": "C:\\Área de Trabalho\\CursoCSharp\\obj\\",
+        "outputPath": "c:\\Área de Trabalho\\CursoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maibv\\AppData\\Roaming\\NuGet\\NuGet.Config"

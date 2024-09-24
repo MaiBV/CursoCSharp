@@ -26,3 +26,4 @@ C:\Área de Trabalho\CursoCSharp\CursoCSharp\bin\Debug\net8.0\CursoCSharp.dll
 C:\Área de Trabalho\CursoCSharp\CursoCSharp\bin\Debug\net8.0\CursoCSharp.pdb
 C:\Área de Trabalho\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.genruntimeconfig.cache
 C:\Área de Trabalho\CursoCSharp\CursoCSharp\obj\Debug\net8.0\ref\CursoCSharp.dll
+C:\Área de Trabalho\CursoCSharp\obj\Debug\net8.0\CursoCSharp.sourcelink.json
