@@ -1,25 +1,44 @@
 ﻿using System.Diagnostics.Contracts;
 using CursoCSharp.Models;
 
-List<string> listaString = new List<string>();
+// Instancia da classe pessoa
+Pessoa p = new Pessoa();
 
-listaString.Add("SP");
-listaString.Add("BA");
-listaString.Add("MG");
-listaString.Add("RJ");
+// Atribuição de valores
+p.Nome = "Maiara";
+p.Idade = 47;
 
-Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade {listaString.Capacity}");
-
-listaString.Add("SC");
-
-Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade {listaString.Capacity}");
-
-listaString.Remove("MG");
-
-Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade {listaString.Capacity}");
+// Chamada do método Apresentar
+p.Apresentar();
 
 
 
+
+
+
+
+
+
+
+
+
+
+// List<string> listaString = new List<string>();
+
+// listaString.Add("SP");
+// listaString.Add("BA");
+// listaString.Add("MG");
+// listaString.Add("RJ");
+
+// Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade {listaString.Capacity}");
+
+// listaString.Add("SC");
+
+// Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade {listaString.Capacity}");
+
+// listaString.Remove("MG");
+
+// Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade {listaString.Capacity}");
 
 
 
