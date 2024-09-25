@@ -4,31 +4,37 @@ using CursoCSharp.Models;
 // Instancia da classe pessoa
 Pessoa p = new Pessoa();
 
-// Atribuição de valores
+/*
+    Atribuição o nome e idade para pessoa
+    passando o nome Maiara
+    e passando a idade 47
+
+*/ 
 p.Nome = "Maiara";
 p.Idade = 47;
-
+p.NomeRepresentanteLegalDaPessoaFísica = "João";
 // Chamada do método Apresentar
 p.Apresentar();
 
 
+p.CadastrarNoERPXYZDaEmpresa();
 
 
-
-
-
-
-
-
+Calculadora c = new Calculadora();
+c.Somar(3, 5);
+c.Subtrair(10, 5);
 
 
 
 // List<string> listaString = new List<string>();
 
-// listaString.Add("SP");
-// listaString.Add("BA");
-// listaString.Add("MG");
-// listaString.Add("RJ");
+/*   
+listaString.Add("SP");
+listaString.Add("BA");
+listaString.Add("MG");
+listaString.Add("RJ");
+*/
+
 
 // Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade {listaString.Capacity}");
 

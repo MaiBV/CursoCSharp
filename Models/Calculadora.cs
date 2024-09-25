@@ -7,6 +7,11 @@ namespace CursoCSharp.Models
 {
     public class Calculadora
     {
+        /// <summary>
+        /// Realiza uma soma de dois números
+        /// </summary>
+        /// <param name="x">O Primeiro número inteiro para somar</param>
+        /// <param name="y">O segundo número inteiro para somar</param>
         public void Somar(int x, int y)
         {
             Console.WriteLine($"{x} + {y} = {x + y}");
